@@ -22,7 +22,7 @@ keymap = [
         ["Kp5", "Kp6","Kp4", "Kp5", "Kp6","Kp4", "Kp5", "Kp6","Kp4", "Kp5","Kp7", "Kp8"],
         ["Kp2", "Kp3","Kp1", "Kp2", "Kp3","Kp1", "Kp2", "Kp3","Kp1", "Kp2","Kp7", "Kp8"],
         ["Kp0", "MO(1)", "Dot","Kp0"]
-         ["Kp0", "MO(1)", "Dot","Kp0"]
+        ["Kp0", "MO(1)", "Dot","Kp0"]
     ]
 ]
 
